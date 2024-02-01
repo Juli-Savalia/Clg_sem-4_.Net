@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\bin\Debug\Arithmatic.exe.config
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\bin\Debug\Arithmatic.exe
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\bin\Debug\Arithmatic.pdb
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\bin\Debug\Arithmatic.xml
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.exe
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.xml
+C:\Users\VBGIS\Desktop\SEM-4 juli\VB.NET\Arithmetic operations\Arithmatic\Arithmatic\obj\Debug\Arithmatic.pdb

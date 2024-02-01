@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\bin\Debug\net6.0-windows\Factorial.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\bin\Debug\net6.0-windows\Factorial.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\bin\Debug\net6.0-windows\Factorial.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\bin\Debug\net6.0-windows\Factorial.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\bin\Debug\net6.0-windows\Factorial.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\refint\Factorial.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\Factorial.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\FACTORIAL\Factorial\Factorial\obj\Debug\net6.0-windows\ref\Factorial.dll

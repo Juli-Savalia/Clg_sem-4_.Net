@@ -1,0 +1,12 @@
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\bin\Debug\msgboxs.exe.config
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\bin\Debug\msgboxs.exe
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\bin\Debug\msgboxs.pdb
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\bin\Debug\msgboxs.xml
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.vbproj.AssemblyReference.cache
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.Form1.resources
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.Resources.resources
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.exe
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.xml
+D:\SEM-4 juli\VB.NET\msgboxs\msgboxs\msgboxs\obj\Debug\msgboxs.pdb

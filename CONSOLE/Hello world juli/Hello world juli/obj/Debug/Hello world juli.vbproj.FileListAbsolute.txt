@@ -1,0 +1,12 @@
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\bin\Debug\Hello world juli.exe.config
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\bin\Debug\Hello world juli.exe
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\bin\Debug\Hello world juli.pdb
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\bin\Debug\Hello world juli.xml
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.vbproj.SuggestedBindingRedirects.cache
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello_world_juli.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.exe
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.xml
+C:\Users\VBGIS\Desktop\SEM-4\VB.NET\Hello world juli\Hello world juli\obj\Debug\Hello world juli.pdb
