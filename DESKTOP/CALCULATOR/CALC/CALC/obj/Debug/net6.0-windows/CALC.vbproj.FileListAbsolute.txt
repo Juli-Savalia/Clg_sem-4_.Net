@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\bin\Debug\net6.0-windows\CALC.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\bin\Debug\net6.0-windows\CALC.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\bin\Debug\net6.0-windows\CALC.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\bin\Debug\net6.0-windows\CALC.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\bin\Debug\net6.0-windows\CALC.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\refint\CALC.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\CALC.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CALCULATOR\CALC\CALC\obj\Debug\net6.0-windows\ref\CALC.dll
