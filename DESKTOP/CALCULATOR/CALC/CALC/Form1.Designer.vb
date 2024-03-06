@@ -74,7 +74,6 @@ Partial Class Form1
         TextBox1.RightToLeft = RightToLeft.Yes
         TextBox1.Size = New Size(309, 46)
         TextBox1.TabIndex = 1
-        TextBox1.Text = "0"
         ' 
         ' Panel2
         ' 

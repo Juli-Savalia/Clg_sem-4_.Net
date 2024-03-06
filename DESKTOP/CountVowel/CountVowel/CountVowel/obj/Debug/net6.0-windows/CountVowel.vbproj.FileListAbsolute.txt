@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\bin\Debug\net6.0-windows\CountVowel.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\bin\Debug\net6.0-windows\CountVowel.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\bin\Debug\net6.0-windows\CountVowel.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\bin\Debug\net6.0-windows\CountVowel.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\bin\Debug\net6.0-windows\CountVowel.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\refint\CountVowel.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\CountVowel.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CountVowel\CountVowel\CountVowel\obj\Debug\net6.0-windows\ref\CountVowel.dll

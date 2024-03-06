@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\bin\Debug\net6.0-windows\PrimeNo.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\bin\Debug\net6.0-windows\PrimeNo.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\bin\Debug\net6.0-windows\PrimeNo.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\bin\Debug\net6.0-windows\PrimeNo.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\bin\Debug\net6.0-windows\PrimeNo.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\refint\PrimeNo.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\PrimeNo.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\PRIME NO\PrimeNo\PrimeNo\obj\Debug\net6.0-windows\ref\PrimeNo.dll

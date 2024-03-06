@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\bin\Debug\net6.0-windows\compound.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\bin\Debug\net6.0-windows\compound.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\bin\Debug\net6.0-windows\compound.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\bin\Debug\net6.0-windows\compound.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\bin\Debug\net6.0-windows\compound.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\refint\compound.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\compound.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Compound\compound\compound\obj\Debug\net6.0-windows\ref\compound.dll

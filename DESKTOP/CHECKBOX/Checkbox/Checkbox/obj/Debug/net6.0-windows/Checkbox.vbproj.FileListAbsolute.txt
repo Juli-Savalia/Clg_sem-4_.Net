@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\refint\Checkbox.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\CHECKBOX\Checkbox\Checkbox\obj\Debug\net6.0-windows\ref\Checkbox.dll

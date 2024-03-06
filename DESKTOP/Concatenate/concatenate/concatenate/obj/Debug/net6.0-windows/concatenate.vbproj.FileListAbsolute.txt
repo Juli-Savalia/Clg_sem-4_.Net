@@ -1,0 +1,16 @@
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\bin\Debug\net6.0-windows\concatenate.exe
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\bin\Debug\net6.0-windows\concatenate.deps.json
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\bin\Debug\net6.0-windows\concatenate.runtimeconfig.json
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\bin\Debug\net6.0-windows\concatenate.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\bin\Debug\net6.0-windows\concatenate.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.Form1.resources
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.vbproj.GenerateResource.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.AssemblyInfoInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.AssemblyInfo.vb
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.vbproj.CoreCompileInputs.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\refint\concatenate.dll
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.pdb
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\concatenate.genruntimeconfig.cache
+D:\SEM-4 juli\VB.NET\DESKTOP\Concatenate\concatenate\concatenate\obj\Debug\net6.0-windows\ref\concatenate.dll
